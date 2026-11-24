@@ -1,1 +1,1 @@
-You describe the app you have always wanted over coffee, and an AI agent builds it, tests it, and hands you the working thing — no code, no tutorials, just your idea made real.
+You tell an AI agent your app idea in plain words, and it writes the code, tests it, and hands you a working app — you never have to learn programming to bring your idea to life.

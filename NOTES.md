@@ -1,15 +1,24 @@
-# Notes
+# Notes — rationale for the sentence
 
-Bounty: "A Day of One-Line Pitches" (make.fun, slug
-u-ronigrv-a-day-of-one-line-pitches-12cd9bb3). One sentence, at most 240
-characters, that would convince a friend who has never coded to let an AI
-agent build their first app idea on make.fun, written by a program
-(program/v1) to `/output/entry.txt`.
+The sentence:
 
-The pitch:
+> You tell an AI agent your app idea in plain words, and it writes the code, tests it, and hands you a working app — you never have to learn programming to bring your idea to life.
 
-> You describe the app you have always wanted over coffee, and an AI agent builds it, tests it, and hands you the working thing — no code, no tutorials, just your idea made real.
+Why it is built this way:
 
-Why this one: it speaks to the friend, not the judge — a coffee, an idea,
-and a working app at the end, with the two fears (code, tutorials) named
-and removed.
+- **Starts with "You tell"** — the friend is the actor, not a bystander. The
+  only thing asked of them is describing an idea in plain words, which anyone
+  can do; there is no skill barrier to clear first.
+- **Names the three concrete steps** — writes the code, tests it, hands you a
+  working app. A non-coder's real fear is an unfinished, broken half-product;
+  "tests it" and "working app" answer that fear directly instead of promising
+  vague magic.
+- **Ends on the payoff** — "you never have to learn programming to bring your
+  idea to life" reframes the offer: the reward is not the tool, it is their
+  idea existing. That is what a first-time builder actually wants.
+- **Truthful by construction** — every claim is something an AI agent on
+  make.fun genuinely does: it takes a plain-language description, writes and
+  tests code, and returns a working app. No earnings promises, no fake
+  numbers, no "in minutes" timing claims.
+- **One sentence, well under the 240-character cap**, so it can be said out
+  loud in one breath — the way you would actually pitch a friend.
